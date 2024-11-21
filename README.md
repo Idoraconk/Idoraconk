@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Idoraconk
-- 👀 Beginner programmer in C++, Lua and Python
+- 👀 Beginner programmer in C++, Lua, Python an JS
 - 🌱 I’m currently learning Typescript
 - ⚒️ Student at UFERSA (Federal Rural University of the Semi-Arid Region)
 - 📫 Discord: @pensq 
